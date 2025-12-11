@@ -9,3 +9,4 @@ opencv-python
 sqlmodel
 mediapipe
 streamlit-authenticator==0.4.2
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
